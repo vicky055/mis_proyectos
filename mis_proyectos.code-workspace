@@ -2,6 +2,10 @@
 	"folders": [
 		{
 			"path": "."
+		},
+		{
+			"name": "DO101-apps",
+			"path": "..\\..\\..\\..\\xampp\\htdocs\\Fork_D0101\\DO101-apps"
 		}
 	]
 }
